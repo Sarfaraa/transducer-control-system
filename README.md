@@ -5,3 +5,4 @@ Sick tilt and pressure level sensor to achieve vertical and horizontal critical 
 use analog to digital converters to convert sensors signal to understand controller
 accumalte the calibration of sensor via note every initial reading and adjust surface and then used re refernced terminal to again organized the sensors to its origion position to get proper values according to requirement.
 complete program files, data log and high and low designed uploaded
+![sld](https://github.com/user-attachments/assets/b772d04b-36cf-4eac-bd3d-9272f7c115c3)
